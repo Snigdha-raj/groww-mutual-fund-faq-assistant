@@ -1,0 +1,79 @@
+[
+  {
+    "id": "D01",
+    "scheme": "HDFC Flexi Cap Fund",
+    "topic": "minimum SIP",
+    "text": "The reference snapshot records a minimum SIP of ₹100. Verify the latest amount on the official scheme page.",
+    "source_id": "S01"
+  },
+  {
+    "id": "D02",
+    "scheme": "HDFC Flexi Cap Fund",
+    "topic": "exit load",
+    "text": "The reference snapshot records an exit load of 1% for redemption within one year and nil thereafter. Verify current terms.",
+    "source_id": "S01"
+  },
+  {
+    "id": "D03",
+    "scheme": "HDFC ELSS Tax Saver Fund",
+    "topic": "lock-in",
+    "text": "ELSS investments have a three-year lock-in period. Each SIP instalment has its own lock-in period from its allotment date.",
+    "source_id": "S02"
+  },
+  {
+    "id": "D04",
+    "scheme": "HDFC Mid Cap Fund",
+    "topic": "benchmark",
+    "text": "Check the latest official scheme page and factsheet to verify the current benchmark.",
+    "source_id": "S03"
+  },
+  {
+    "id": "D16",
+    "scheme": "General",
+    "topic": "statement",
+    "text": "Refer to Groww's official help documentation for current instructions to download tax proofs and statements.",
+    "source_id": "S04"
+  },
+  {
+    "id": "D17",
+    "scheme": "General",
+    "topic": "Groww statement download",
+    "text": "For mutual fund statement downloads, follow the latest instructions in Groww's official Mutual Fund Help Centre.",
+    "source_id": "S08"
+  },
+  {
+    "id": "D18",
+    "scheme": "General",
+    "topic": "account statement",
+    "text": "For consolidated account statement information, check the official AMFI investor service information.",
+    "source_id": "S08"
+  },
+  {
+    "id": "D19",
+    "scheme": "General",
+    "topic": "riskometer",
+    "text": "A Riskometer visually communicates the risk level of a mutual fund scheme. Check the latest official scheme page for its current rating.",
+    "source_id": "S05"
+  },
+  {
+    "id": "D20",
+    "scheme": "General",
+    "topic": "expense ratio",
+    "text": "Total Expense Ratio represents the expenses charged for managing and operating a mutual fund scheme. Check the latest official disclosure for the current figure.",
+    "source_id": "S06"
+  },
+  {
+    "id": "D21",
+    "scheme": "General",
+    "topic": "exit load",
+    "text": "Exit load is a charge that may apply when mutual fund units are redeemed or switched within a specified period. Terms vary by scheme.",
+    "source_id": "S07"
+  },
+  {
+    "id": "D22",
+    "scheme": "General",
+    "topic": "minimum SIP",
+    "text": "Minimum SIP amounts vary by scheme and plan. Check the latest official scheme documents.",
+    "source_id": "S07"
+  }
+]
